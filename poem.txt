@@ -245,5 +245,5 @@ Mana
 
 This is test
 gggg 
-
+This is Mincho 
 
